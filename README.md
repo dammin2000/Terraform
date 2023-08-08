@@ -7,4 +7,4 @@ The project includes:
 -Security group for port 22,80,443, 
 -Network interface,  
 Elastic IP assignment to the network interface, 
-Ubuntu server and apache2 install
+Ubuntu server and apache2 install.
